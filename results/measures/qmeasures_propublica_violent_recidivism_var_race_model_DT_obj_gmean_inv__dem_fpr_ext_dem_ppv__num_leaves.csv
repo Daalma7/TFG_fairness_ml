@@ -1,0 +1,10 @@
+Quality Measures,NSGA-II,SMS-EMOA,GrEA,General PF
+Mean solutions,150.0,-47,-47,-
+Proportion,1.0,-47,-47,-
+Hypervolume,0.6808763715127122,-47,-47,0.680876
+Spacing,0.0056086623168739155,-47,-47,0.005609
+Maximum spread,0.14514473909101855,-47,-47,0.145145
+Overall PF spread,1.0,-47,-47,-
+Error ratio,0.0,-47,-47,-
+GD,0.0,-47,-47,-
+Inverted GD,0.0,-47,-47,-

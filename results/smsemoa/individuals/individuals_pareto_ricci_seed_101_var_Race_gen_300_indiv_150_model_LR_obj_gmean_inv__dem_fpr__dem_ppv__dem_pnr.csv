@@ -1,0 +1,2 @@
+id,seed,creation_mode,error_val,dem_fpr_val,dem_ppv_val,dem_pnr_val,error_tst,dem_fpr_tst,dem_ppv_tst,dem_pnr_tst,max_iter,tol,lambda,l1_ratio,class_weight
+PPATBB2SIC,101,crossover,0.0,0.0,0.0,0.0,0.19560033346015626,0.5192307692307692,0.033333333333333326,0.4,189,0.010902377533777093,82740.52181242288,0.21778940806109037,7
